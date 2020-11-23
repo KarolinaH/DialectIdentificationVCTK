@@ -1,0 +1,108 @@
+Speaker ID,Age,Gender,Dialect in doc,Dialect Group,Narrow Label,Broad Label,Original Label,Rhotic?
+326,26,M,Australian English Sydney,Australian,Aus,OCE,,FALSE
+374,28,M,Australian English,Australian,Aus,OCE,,FALSE
+233,23,F,English Staffordshire,English Midlands,EngMid,ENG-W,GB-EAW,FALSE
+256,24,M,English Birmingham,English Midlands,EngMid,ENG-W,GB-EAW,FALSE
+259,23,M,English Nottingham,English Midlands,EngMid,ENG-W,GB-EAW,FALSE
+279,23,M,English Leicester,English Midlands,EngMid,ENG-W,GB-EAW,FALSE
+286,23,M,English Newcastle,English North,EngN,ENG-W,GB-EAW,FALSE
+236,23,F,English Manchester,English North,EngN,ENG-W,GB-EAW,FALSE
+244,22,F,English Manchester,English North,EngN,ENG-W,GB-EAW,FALSE
+267,23,F,English Yorkshire,English North,EngN,ENG-W,GB-EAW,FALSE
+269,20,F,English Newcastle,English North,EngN,ENG-W,GB-EAW,FALSE
+270,21,M,English Yorkshire,English North,EngN,ENG-W,GB-EAW,FALSE
+277,23,F,English NE England,English North,EngN,ENG-W,GB-EAW,FALSE
+278,22,M,English Cheshire,English North,EngN,ENG-W,GB-EAW,FALSE
+282,23,F,English Newcastle,English North,EngN,ENG-W,GB-EAW,FALSE
+287,23,M,English York,English North,EngN,ENG-W,GB-EAW,FALSE
+230,22,F,English Stockton-on-tees,English North,EngN,ENG-W,GB-EAW,FALSE
+225,23,F,English Southern England,English South,EngS,ENG-W,GB-EAW,FALSE
+226,22,M,English Surrey,English South,EngS,ENG-W,GB-EAW,FALSE
+227,38,M,English Cumbria,English South,EngS,ENG-W,GB-EAW,FALSE
+228,22,F,English Southern England,English South,EngS,ENG-W,GB-EAW,FALSE
+229,23,F,English Southern England,English South,EngS,ENG-W,GB-EAW,FALSE
+232,23,M,English Southern England,English South,EngS,ENG-W,GB-EAW,FALSE
+239,22,F,English SW England,English SouthWest,EngS,ENG-W,GB-EAW,FALSE
+240,21,F,English Southern England,English South,EngS,ENG-W,GB-EAW,FALSE
+243,22,M,English London,English South,EngS,ENG-W,GB-EAW,FALSE
+250,22,F,English SE England,English South,EngS,ENG-W,GB-EAW,FALSE
+254,21,M,English Surrey,English South,EngS,ENG-W,GB-EAW,FALSE
+257,24,F,English Southern England,English South,EngS,ENG-W,GB-EAW,FALSE
+258,22,M,English Southern England,English South,EngS,ENG-W,GB-EAW,FALSE
+268,23,F,English Southern England,English South,EngS,ENG-W,GB-EAW,FALSE
+273,23,M,English Suffolk,English South,EngS,ENG-W,GB-EAW,FALSE
+274,22,M,English Essex,English South,EngS,ENG-W,GB-EAW,FALSE
+276,24,F,English Oxford,English South,EngS,ENG-W,GB-EAW,FALSE
+231,23,F,English Southern England,English South,EngS,ENG-W,GB-EAW,FALSE
+248,23,F,Indian,Indian,Indian,IND,,FALSE
+376,22,M,Indian,Indian,Indian,IND,,FALSE
+238,22,F,England,Northern Irish,IreUlst,SCT-IRE,GB-SCT,TRUE
+261,26,F,NorthernIrish Belfast,Northern Irish,IreUlst,SCT-IRE,GB-SCT,TRUE
+292,23,M,NorthernIrish Belfast,NorthernIrish,IreUlst,SCT-IRE,GB-SCT,TRUE
+293,22,F,NorthernIrish Belfast,NorthernIrish,IreUlst,SCT-IRE,GB-SCT,TRUE
+304,22,M,NorthernIrish Belfast,NorthernIrish,IreUlst,SCT-IRE,GB-SCT,TRUE
+351,21,F,NorthernIrish Derry,Northern Irish,IreUlst,SCT-IRE,GB-SCT,TRUE
+364,23,M,Irish Donegal,Irish Ulster,IreUlst,SCT-IRE,GB-SCT,TRUE
+245,25,M,Irish Dublin,Irish Dublin,Irish,SCT-IRE,GB-SCT,TRUE
+266,22,F,Irish Athlone,Irish,Irish,SCT-IRE,GB-SCT,TRUE
+283,24,F,Irish Cork,Irish South,Irish,SCT-IRE,GB-SCT,TRUE
+288,22,F,Irish Dublin,Irish Dublin,Irish,SCT-IRE,GB-SCT,TRUE
+295,23,F,Irish Dublin,Irish Dublin,Irish,SCT-IRE,GB-SCT,TRUE
+298,19,M,Irish Tipperary,Irish South,Irish,SCT-IRE,GB-SCT,TRUE
+313,24,F,Irish County Down,Irish,Irish,SCT-IRE,GB-SCT,TRUE
+340,18,F,Irish Dublin,Irish Dublin,Irish,SCT-IRE,GB-SCT,TRUE
+335,25,F,NewZealand English,New Zealand,NZ,OCE,,FALSE
+314,26,F,SouthAfrican Cape Town,SouthAfrican,SA,SA,,FALSE
+347,26,M,SouthAfrican Johannesburg,SouthAfrican,SA,SA,,FALSE
+323,19,F,SouthAfrican Pretoria,SouthAfrican,SA,SA,,FALSE
+336,18,F,SouthAfrican Johannesburg,SouthAfrican,SA,SA,,FALSE
+247,22,M,Scottish Argyll,Scottish Highlands,ScotHigh,SCT-IRE,GB-SCT,TRUE
+260,21,M,Scottish Orkney,Scottish Highlands,ScotHigh,ENG-W,GB-EAW,TRUE
+234,22,F,Scottish West Dumfries,Scottish Lowlands,ScotLow,SCT-IRE,GB-SCT,TRUE
+237,22,M,Scottish Fife,Scottish Lowlands,ScotLow,SCT-IRE,GB-SCT,TRUE
+241,21,M,Scottish Perth,Scottish Lowlands,ScotLow,SCT-IRE,GB-SCT,TRUE
+246,22,M,Scottish Selkirk,Scottish Lowlands,ScotLow,SCT-IRE,GB-SCT,TRUE
+252,22,M,Scottish Edinburgh,Scottish Lowlands,ScotLow,SCT-IRE,GB-SCT,TRUE
+255,19,M,Scottish Galloway,Scottish Lowlands,ScotLow,SCT-IRE,GB-SCT,TRUE
+249,22,F,Scottish Aberdeen,Scottish Lowlands,ScotLow,SCT-IRE,GB-SCT,TRUE
+264,23,F,Scottish West Lothian,Scottish Lowlands,ScotLow,SCT-IRE,GB-SCT,TRUE
+265,23,F,Scottish Ross,Scottish Lowlands,ScotLow,SCT-IRE,GB-SCT,TRUE
+271,19,M,Scottish Fife,Scottish Lowlands,ScotLow,SCT-IRE,GB-SCT,TRUE
+272,23,M,Scottish Edinburgh,Scottish Lowlands,ScotLow,SCT-IRE,GB-SCT,TRUE
+275,23,M,Scottish Midlothian,Scottish Lowlands,ScotLow,SCT-IRE,GB-SCT,TRUE
+281,29,M,Scottish Edinburgh,Scottish Lowlands,ScotLow,SCT-IRE,GB-SCT,TRUE
+284,20,M,Scottish Fife,Scottish Lowlands,ScotLow,SCT-IRE,GB-SCT,TRUE
+262,23,F,Scottish Edinburgh,Scottish Lowlands,ScotLow,SCT-IRE,GB-SCT,TRUE
+285,21,M,Scottish Edinburgh,Scottish Lowlands,ScotLow,SCT-IRE,GB-SCT,TRUE
+263,22,M,Scottish Aberdeen,Scottish Lowlands,ScotLow,SCT-IRE,GB-SCT,TRUE
+305,19,F,American Philadelphia,NA Eastern US,USE,NA,US,TRUE
+315,18,M,American New England,NA Eastern US,USE,NA,,TRUE
+339,21,F,American Pennsylvania,NA Eastern US,USE,NA,US,TRUE
+360,19,M,American New Jersey,NA Eastern US,USE,NA,US,TRUE
+361,19,F,American New Jersey,NA Eastern US,USE,NA,US,TRUE
+311,21,M,American Iowa,American Mid,USN,NA,US,TRUE
+333,19,F,American Indiana,NA Northern US,USN,NA,US,TRUE
+334,18,M,American Chicago,NA Northern US,USN,NA,US,TRUE
+341,26,F,American Ohio,NA Northern US,USN,NA,US,TRUE
+297,20,F,American New York,NA Greater NYC,USNYC,NA,US,TRUE
+306,21,F,American New York,NA Greater NYC,USNYC,NA,US,TRUE
+310,21,F,American Tennessee,NA Southern US,USS,NA,US,TRUE
+345,22,M,American Florida,NA Southern US,USS,NA,US,TRUE
+308,18,F,American Alabama,NA Southern US,USS,NA,US,TRUE
+294,33,F,American San Francisco,NA Western US and Canada,USW-Can,NA,US,TRUE
+330,26,F,American,NA Western US and Canada,USW-Can,NA,US,TRUE
+362,29,F,American,NA Western US and Canada,USW-Can,NA,US,TRUE
+301,23,F,American North Carolina,NA Western US and Canada,USW-Can,NA,US,TRUE
+302,20,M,Canadian Montreal,NA Western US and Canada,USW-Can,NA,US,TRUE
+303,24,F,Canadian Toronto,NA Western US and Canada,USW-Can,NA,US,TRUE
+307,23,F,Canadian Ontario,NA Western US and Canada,USW-Can,NA,US,TRUE
+312,19,F,Canadian Hamilton,NA Western US and Canada,USW-Can,NA,US,TRUE
+316,20,M,Canadian Alberta,NA Western US and Canada,USW-Can,NA,US,TRUE
+317,23,F,Canadian Hamilton,NA Western US and Canada,USW-Can,NA,US,TRUE
+318,32,F,American Napa,NA Western US and Canada,USW-Can,NA,US,TRUE
+329,23,F,American,NA Western US and Canada,USW-Can,NA,US,TRUE
+299,25,F,American California,NA Western US and Canada,USW-Can,NA,US,TRUE
+343,27,F,Canadian Alberta,NA Western US and Canada,USW-Can,NA,US,TRUE
+300,23,F,American California,NA Western US and Canada,USW-Can,NA,US,TRUE
+363,22,M,Canadian Toronto,NA Western US and Canada,USW-Can,NA,US,TRUE
+253,22,F,Welsh Cardiff,Welsh,Welsh,ENG-W,GB-EAW,FALSE
